@@ -122,6 +122,22 @@ const players = [
     mainGame: "BGMI",
     gameIcon: Target,
   },
+    {
+    name: "Vinayak",
+    alias: "Inertia",
+    games: ["BGMI"],
+    tagline: "Entry fragger bolte",
+    initials: "VS",
+    stats: {
+      aim: 95,
+      strategy: 85,
+      teamwork: 70,
+      experience: 80,
+    },
+    achievements: ["Top Fragger", "MVP of the tournament"],
+    mainGame: "BGMI",
+    gameIcon: Gamepad,
+  },
 ]
 
 export default function Players() {

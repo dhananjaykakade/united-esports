@@ -201,6 +201,7 @@ export default function Hero() {
               size="lg" 
               variant="ghost" 
               className="text-white hover:text-red-500 hover:bg-red-600/10 group text-lg font-medium py-6"
+              onClick={() => window.open("https://discord.gg/Q4pT2ThHp8", "_blank")}
             >
               <Swords className="mr-2 h-5 w-5 group-hover:rotate-12 transition-transform duration-300" /> Join the Squad
             </Button>

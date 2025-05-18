@@ -36,10 +36,22 @@ export default function About() {
 
   const timelineEvents = [
     {
-      year: "2021",
+      year: "2019",
       title: "The Beginning",
       description: "UNITED Esports was founded with a vision to dominate the competitive gaming scene.",
       icon: Flag,
+    },
+    {
+      year: "2020",
+      title: "First Team Formation",
+      description: "We formed our first competitive team in Valorant, setting the stage for future success.",
+      icon: Trophy,
+    },
+    {
+      year: "2021",
+      title: "First Major Tournament",
+      description: "Participated in our first major tournament, showcasing our talent and determination.",
+      icon: Trophy,
     },
     {
       year: "2022",
@@ -58,6 +70,12 @@ export default function About() {
       title: "Going Global",
       description: "Established international presence with players from across the globe.",
       icon: CheckCircle2,
+    },
+    {
+      year: "2025",
+      title: "Community Engagement",
+      description: "Launched community events and tournaments to engage with our fans.",
+      icon: Trophy,
     },
   ]
 
