@@ -28,7 +28,7 @@ const players = [
   },
   {
     name: "Amol",
-    alias: "Ryzen",
+    alias: "Tochan",
     games: ["Valorant", "PUBG PC", "BGMI", "Apex Legends"],
     tagline: "Ambani of community",
     initials: "AR",
