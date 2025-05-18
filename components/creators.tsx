@@ -25,7 +25,7 @@ const creators = [
   },
   {
     name: "Amol",
-    alias: "Ryzen",
+    alias: "Tochan",
     platforms: ["YouTube", "Instagram"],
     games: ["Valorant", "PUBG PC", "BGMI"],
     tagline: "High-skill gameplay and tutorials",
